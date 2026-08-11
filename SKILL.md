@@ -1,3 +1,12 @@
+---
+name: igreet
+description: >-
+  Use iGreet MCP tools to create and manage greeting cards as the authenticated
+  user or workspace. Prefer draft-first; schedule or send only when asked.
+  Use when the user wants to create a card, pick a design, manage recipients,
+  messages, reminders, contacts, bundles, or schedule/send a card.
+---
+
 # iGreet Claude Skill
 
 Use iGreet tools to create greeting cards. Prefer draft-first; schedule or send only when asked.
